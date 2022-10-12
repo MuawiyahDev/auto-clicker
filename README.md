@@ -1,7 +1,7 @@
 # React.js Auto Clicker
 A free and good auto clicker using React.js. Speed up your mouse clicking with Auto Clicker.
 
- [View Live Demo](https://auto-clicker.vercel.app/)
+ [View Live Demo](https://reactjs-auto-clicker.vercel.app/)
 
 
 ## Screenshots
