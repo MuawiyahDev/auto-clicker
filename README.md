@@ -1,24 +1,29 @@
-# Javascript Obfuscator Tool
-A free and efficient obfuscator for JavaScript. Make your code harder to copy and prevent people from stealing your work.
+# React.js Auto Clicker
+A free and good auto clicker using React.js. Speed up your mouse clicking with Auto Clicker.
 
- [View Live Demo](https://javascript-obfuscator.vercel.app/)
+ [View Live Demo](https://auto-clicker.vercel.app/)
 
 
 ## Screenshots
 
-Step 1 (Welcome Screen):-
+Step 1:-
 
-![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/1.png?raw=true)
-
-
-Step 2 (Filled Form):-
-
-![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/2.png?raw=true)
+![App Screenshot](https://github.com/MuawiyahDev/auto-clicker/blob/main/screenshots/1.png?raw=true)
 
 
-Step 3 (Output):-
+Step 2:-
 
-![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/3.png?raw=true)
+![App Screenshot](https://github.com/MuawiyahDev/auto-clicker/blob/main/screenshots/2.png?raw=true)
+
+
+Step 3:-
+
+![App Screenshot](https://github.com/MuawiyahDev/auto-clicker/blob/main/screenshots/3.png?raw=true)
+
+
+Step 4:-
+
+![App Screenshot](https://github.com/MuawiyahDev/auto-clicker/blob/main/screenshots/4.png?raw=true)
 
 To install this JavaScript Obfuscator you need to download this source code and then you unzip the files and open index.html in your web browser and that's it you can use the tool now.
 
