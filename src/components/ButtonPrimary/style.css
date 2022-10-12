@@ -1,0 +1,33 @@
+.button-primary {
+  background-color: #00bbe4;
+  border-radius: 5px;
+  border: none;
+  height: 45px;
+  color: white;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  padding: 0 27px;
+  transition: 0.3s all ease;
+}
+
+.button-primary.success {
+  background-color: #00e685;
+}
+
+.button-primary.success:hover,
+.button-primary.success:focus,
+.button-primary.success.active {
+  background-color: #00d27b;
+}
+
+.button-primary.danger {
+  background-color: #e52900;
+}
+
+.button-primary.danger:hover,
+.button-primary.danger:focus,
+.button-primary.danger.active {
+  background-color: #cc2500;
+}

@@ -1,0 +1,17 @@
+.navbar {
+  background: var(--primary-color) !important;
+  padding: 0 !important;
+  min-height: 65px;
+  margin-bottom: 40px;
+}
+
+.navbar .logo {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 34px;
+  color: #ffffff;
+}
+
+.navbar .logo span {
+  font-weight: 400;
+}
