@@ -26,7 +26,7 @@ function Navbar() {
               GitHub
             </>
           }
-          url="https://github.com/MuawiyahDev/"
+          url="https://github.com/MuawiyahDev/auto-clicker/"
           target="_blank"
         />
       </div>
