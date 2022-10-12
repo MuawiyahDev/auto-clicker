@@ -30,6 +30,12 @@ Step 4:-
 
 In the project directory, you can run:
 
+
+### `npm install`
+
+To install the project dependencies.\
+Open terminal to your project directory and run `npm install`.
+
 ### `npm start`
 
 Runs the app in the development mode.\
